@@ -1,0 +1,32 @@
+main{
+    display: inline-block;
+    vertical-align: top;
+}
+aside{
+    text-align: center;
+ display: inline-block;
+}
+nav{
+position: absolute;
+left: 190px;
+top: 275px;
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+}
+section{
+    display: inline-block;
+    vertical-align: top;
+}
+h2{
+   margin-top: 150px;
+}
+p{
+    vertical-align: center;
+}
+h3{
+position: relative;
+top: 225px;
+left: 270px;
+}
